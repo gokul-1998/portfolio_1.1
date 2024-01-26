@@ -19,3 +19,6 @@
     - `https://fonts.google.com/specimen/Poppins`
     - select the desired fonts and click on the top right corner to open selected fonts
     - in  the  pop up click on import and copy the link and paste it in the css
+
+-  Hint :: 
+    -  in  html  , use `alt+up/down` to move the line up or down after selecting the line/lines
